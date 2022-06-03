@@ -1,6 +1,6 @@
 ## Eai! Eu sou o Bueno.
 
-**- 🔭 Hoje estou trabalhando com API's e Angular**
+**- 🕷 Hoje estou trabalhando com API's e Angular**
 
 **- 🌱 Estudante de Java, Typescript,...**
 
